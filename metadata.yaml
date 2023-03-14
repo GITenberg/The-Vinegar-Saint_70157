@@ -7,6 +7,9 @@ contributor:
     deathdate: 1952
     gutenberg_agent_id: '34848'
     url: http://www.gutenberg.org/2009/agents/34848
+covers:
+- cover_type: archival
+  image_path: 70157-h/images/cover.jpg
 creator:
   author:
     agent_name: Mearns, Hughes
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55631
     wikipedia: https://en.wikipedia.org/wiki/William_Hughes_Mearns
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70157#The-Vinegar-Saint
 gutenberg_issued: '2023-02-27'
 identifiers:
   gutenberg: '70157'
